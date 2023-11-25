@@ -1,0 +1,10 @@
+- A .gitignore file is a text file that tells Git which files and folders to ingore.
+- It is usually placed in the root directory of a project.
+- When Git sees a .gitignore file, it will ignore any files or filder that are listed in the file.
+
+- The .ignore files are important in version control because they help to keep the repository clean
+and organized.
+- They also prevent developers from accidentally committing unnecessary files to the repository,
+such as logfiles, build artifacts and IDE configuration files.
+
+- Some example: personal secret files,log files,IDE config files, temporary files.
